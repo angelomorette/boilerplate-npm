@@ -1,7 +1,7 @@
 # Backend Challenges boilerplate - package.json
 Repositório para fixar os conhecimentos do curso de [Gerenciamento de pacotes com o NPM](https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package) do freeCodeCamp
 
-**[Repositorio do desafio](https://github.com/freeCodeCamp/boilerplate-npm/)**
+**[Repositório do desafio](https://github.com/freeCodeCamp/boilerplate-npm/)**
 
 ## Conceitos trabalhados
 - Utilizar o package.json, o centro de qualquer projeto do Node.js ou pacote npm
