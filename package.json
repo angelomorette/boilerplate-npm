@@ -2,9 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Angelo",
 	"description": "Projeto para entender o uso do npm",
-	"keywords": ["freecodecamp", "npm", "node"],
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"node"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
